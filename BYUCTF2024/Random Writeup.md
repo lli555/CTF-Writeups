@@ -7,9 +7,9 @@ Overall this was a pretty fun challenge, I enjoyed it a lot. It came off as easy
 
 When I first opened up the web page, I got a 403 error. So I inspected the source code provided and found that the server is checking for a key value pair`{userid: 0}` in the session cookie.
 
-![web1_1](/images/byu1_1.png)
+![web1_1](/BYUCTF2024/images/byu1_1.png)
 
-![web1_2](/images/byu1_2.png)
+![web1_2](/BYUCTF2024/images/byu1_2.png)
 
 
 #### Stage 1
