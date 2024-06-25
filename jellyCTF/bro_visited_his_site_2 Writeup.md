@@ -12,6 +12,6 @@ To achieve remote code execution, the goal was to import the `os` module, which 
 
 I first used `pwd` to print the current working directory of the application. I then read the contents of `flag.txt` with its absolute path.
 
-![web1_1](/images/jelly1_6.png)
+![web1_1](/jellyCTF/images/jelly1_6.png)
 
-![web1_1](/images/jelly1_7.png)
+![web1_1](/jellyCTF/images/jelly1_7.png)
