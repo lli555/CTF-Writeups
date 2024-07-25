@@ -5,4 +5,5 @@ You can find all my CTF writeups here!<br/>
 - [L3akCTF2024](https://github.com/lli555/CTF-Writeups/tree/main/L3akCTF2024)<br/>
 - [BYUCTF2024](https://github.com/lli555/CTF-Writeups/tree/main/BYUCTF2024)<br/>
 - [UMDCTF2024](https://github.com/lli555/CTF-Writeups/tree/main/UMDCTF)<br/>
+- [ImagineCTF2024](https://github.com/lli555/CTF-Writeups/blob/main/ImagineCTF/journal%20Writeup.md)<br/>
 
